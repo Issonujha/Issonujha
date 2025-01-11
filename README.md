@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hi, I'm **Sonu Kumar Jha**, a passionate Software Development Engineer currently working at **Actolap Solutions**. With over 1.5 years of experience in software development, I specialize in building scalable backend systems using **Java**, **Spring Boot**, and **Microservices**. I’m committed to continuous learning and leveraging technology to solve real-world problems.
+Hi, I'm **Sonu Jha**, a passionate Software Development Engineer currently working at **Actolap Solutions**. With over 1.5 years of experience in software development, I specialize in building scalable backend systems using **Java**, **Spring Boot**, and **Microservices**. I’m committed to continuous learning and leveraging technology to solve real-world problems.
 
 ## 🛠️ Technical Skills
 
