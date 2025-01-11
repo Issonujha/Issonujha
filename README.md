@@ -91,13 +91,13 @@ Hi, I'm **Sonu Kumar Jha**, a passionate Software Development Engineer currently
 
 ## 🚀 Achievements on Code 360
 
-- **Ace Coder**: ![Ace Coder](https://files.codingninjas.in/ace-coder-5-26999.svg) Demonstrated exceptional problem-solving skills in competitive coding.
-- **Code Crusader**: ![Code Crusader](https://files.codingninjas.in/code-crusader-4-26994.svg) Tackled diverse challenges in data structures and algorithms.
-- **Consistent Coder**: ![Consistent Coder](https://files.codingninjas.in/consistent-coder-4-26975.svg) Maintained a regular coding streak.
-- **Leaderboard Legend**: ![Leaderboard Legend](https://files.codingninjas.in/leaderboard-legend-5-27004.svg) Achieved top ranks in Code 360 contests.
-- **Diligent Developer**: ![Diligent Developer](https://files.codingninjas.in/diligent-developer-4-26990.svg) Earned recognition for consistent effort and excellence.
-- **Deadline Dynamo**: ![Deadline Dynamo](https://files.codingninjas.in/deadline-dynamo-3-26981.svg) Successfully delivered solutions under tight deadlines.
-- **Legendary**: ![Legendary](https://files.codingninjas.in/legendary-1-27005.svg)
+- **Ace Coder**: <img src="https://files.codingninjas.in/ace-coder-5-26999.svg" width="50" height="50" alt="Ace Coder"> Demonstrated exceptional problem-solving skills in competitive coding.
+- **Code Crusader**: <img src="https://files.codingninjas.in/code-crusader-4-26994.svg" width="50" height="50" alt="Code Crusader"> Tackled diverse challenges in data structures and algorithms.
+- **Consistent Coder**: <img src="https://files.codingninjas.in/consistent-coder-4-26975.svg" width="50" height="50" alt="Consistent Coder"> Maintained a regular coding streak.
+- **Leaderboard Legend**: <img src="https://files.codingninjas.in/leaderboard-legend-5-27004.svg" width="50" height="50" alt="Leaderboard Legend"> Achieved top ranks in Code 360 contests.
+- **Diligent Developer**: <img src="https://files.codingninjas.in/diligent-developer-4-26990.svg" width="50" height="50" alt="Diligent Developer"> Earned recognition for consistent effort and excellence.
+- **Deadline Dynamo**: <img src="https://files.codingninjas.in/deadline-dynamo-3-26981.svg" width="50" height="50" alt="Deadline Dynamo"> Successfully delivered solutions under tight deadlines.
+- **Legendary**: <img src="https://files.codingninjas.in/legendary-1-27005.svg" width="50" height="50" alt="Legendary">
 
 ## 🌍 Let’s Connect
 
