@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Welcome to My GitHub Profile 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Issonujha&color=blue)
@@ -24,6 +23,8 @@ Here are some ideas to get you started:
 ## About Me
 
 Hi, I'm **Sonu Kumar Jha**, a passionate Software Development Engineer currently working at **Actolap Solutions**. With over 1.5 years of experience in software development, I specialize in building scalable backend systems using **Java**, **Spring Boot**, and **Microservices**. I’m committed to continuous learning and leveraging technology to solve real-world problems.
+
+![Profile Image](https://p.naukimg.com/jphotoV1/s244:LukcMTm52wQRG7C5VggEbpsxxngna8w6zyaExoBKrlpm0pseutfeNODu)
 
 ## 🛠️ Technical Skills
 
@@ -50,16 +51,19 @@ Hi, I'm **Sonu Kumar Jha**, a passionate Software Development Engineer currently
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)**, *Galgotias University* *(2021-2023)*  
+- **Master of Computer Applications (MCA)**, *Galgotias University, Greater Noida* *(2021-2023)*  
   Activities: Logo Designing, Cyberyami Contest
 - **Bachelor of Science (B.Sc)**, *B.D. College, Patna* *(2017-2021)*
 
 ## 🏆 Certifications
 
-- Spring Boot Excellence Certificate - Coding Ninjas
-- Object-Oriented System Development Using UML, Java, and Patterns - NPTEL
-- Excellence in Data Structures in Java - Coding Ninjas
-- Advanced Web Development Bootcamp - Udemy
+- [Spring Boot Excellence Certificate - Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/certificate_13d33af5bce9a676_467421f16530c56740746028612f0635.pdf)
+- [Spring Boot Excellence Certificate - Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/certificate_655119f463127b00_2ff70ad899c3296f454a4a825dc16eb4.pdf)
+- [Front End | Full Stack Web Development - Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/certificate_79675ab5d0669c1a_83280d16eea89b058d4b0d1c1e47341f.pdf)
+- [Operating Systems - Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/certificate3191642aa2ff3fc37aff6f53ec9cc6d5577eabe.pdf)
+- [Database Management System (DBMS) - Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/certificate310973614b1ae1863cbe9ef7fbc6730f4206a7b.pdf)
+- [Excellence in Data Structures in Java - Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/certificate204245863ca67bc1bde7d5687b5edd65322764f.pdf)
+- [Introduction to JAVA - Coding Ninjas](https://ninjasfiles.s3.amazonaws.com/certificate20424574dd2db254e455beadfe24bacfd678fe1.pdf)
 
 ## 🌟 Projects
 
@@ -87,18 +91,20 @@ Hi, I'm **Sonu Kumar Jha**, a passionate Software Development Engineer currently
 
 ## 🚀 Achievements on Code 360
 
-- **Ace Coder**: Demonstrated exceptional problem-solving skills in competitive coding.
-- **Code Crusader**: Tackled diverse challenges in data structures and algorithms.
-- **Consistent Coder**: Maintained a regular coding streak.
-- **Leaderboard Legend**: Achieved top ranks in Code 360 contests.
-- **Diligent Developer**: Earned recognition for consistent effort and excellence.
-- **Deadline Dynamo**: Successfully delivered solutions under tight deadlines.
+- **Ace Coder**: ![Ace Coder](https://files.codingninjas.in/ace-coder-5-26999.svg) Demonstrated exceptional problem-solving skills in competitive coding.
+- **Code Crusader**: ![Code Crusader](https://files.codingninjas.in/code-crusader-4-26994.svg) Tackled diverse challenges in data structures and algorithms.
+- **Consistent Coder**: ![Consistent Coder](https://files.codingninjas.in/consistent-coder-4-26975.svg) Maintained a regular coding streak.
+- **Leaderboard Legend**: ![Leaderboard Legend](https://files.codingninjas.in/leaderboard-legend-5-27004.svg) Achieved top ranks in Code 360 contests.
+- **Diligent Developer**: ![Diligent Developer](https://files.codingninjas.in/diligent-developer-4-26990.svg) Earned recognition for consistent effort and excellence.
+- **Deadline Dynamo**: ![Deadline Dynamo](https://files.codingninjas.in/deadline-dynamo-3-26981.svg) Successfully delivered solutions under tight deadlines.
+- **Legendary**: ![Legendary](https://files.codingninjas.in/legendary-1-27005.svg)
 
 ## 🌍 Let’s Connect
 
-- **Website**: [sonujha.in](http://sonujha.in)
+- **LinkedIn**: [linkedin.com/in/sonu-jha-633765167](https://www.linkedin.com/in/sonu-jha-633765167/)
 - **GitHub**: [github.com/Issonujha](https://github.com/Issonujha)
-- **LinkedIn**: [linkedin.com/in/sonu-jha-633765167](https://linkedin.com/in/sonu-jha-633765167)
+- **HackerRank**: [hackerrank.com/sjha9563](https://www.hackerrank.com/sjha9563)
+- **Naukri**: [naukri.com/code360/profile/Sonujha](https://www.naukri.com/code360/profile/Sonujha)
 - **Email**: [sjha9563@gmail.com](mailto:sjha9563@gmail.com)
 
 ---
