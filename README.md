@@ -69,7 +69,7 @@ Performance-driven **Lead Software Engineer & Backend Architect** with **3.5+ ye
 - Spearheaded modernization initiatives migrating microservices to **Java 17/21 and Spring Boot 3**, leveraging virtual threads and memory optimizations to boost throughput by 25%.
 - Standardized automated CI/CD deployment pipelines, comprehensive PR reviews, and automated unit/integration test coverage, reducing production bugs by 30%.
 
-#### 🔹 **Software Developer & Team Lead** | **Actolap Solutions Pvt. Ltd.**
+#### 🔹 **Software Developer & Team Lead** | **Enterprise SaaS & Distributed Systems (Trackwick)**
 *June 2023 – May 2024 • Noida, India*
 - Architected and scaled distributed backend microservices for **Trackwick** (Enterprise Field Force Management SaaS), supporting thousands of concurrent active business users.
 - Designed the ICICI Bank dynamic QR payment gateway microservice and automated enterprise connectors for Salesforce, Zoho CRM, and Odoo ERP.
@@ -87,7 +87,7 @@ Performance-driven **Lead Software Engineer & Backend Architect** with **3.5+ ye
 - 🎓 **Master of Computer Applications (MCA) in Computer Engineering** — *Galgotias University, Greater Noida, UP* (2021 – 2023)
 - 🎓 **Bachelor of Science (B.Sc.)** — *B. D. College, Patna, Bihar* (2017 – 2020)
 - 🏅 **Certifications:** Java Web Development with Spring Boot & Microservices • Complete Full-Stack Web Development Bootcamp
-- 🏆 **Honors:** Recognized Team Lead at Actolap/Kaptune for steering mission-critical enterprise deliverables • Core PR Reviewer Award for Engineering Excellence
+- 🏆 **Honors:** Recognized Team Lead for steering mission-critical enterprise deliverables • Core PR Reviewer Award for Engineering Excellence
 
 ---
 
